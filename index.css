@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.orange{
+    color: orange;
+}
+.top-banner{
+    display: flex;
+    margin-bottom: 50px;
+}
+.hlfwidth{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+}
+#banner-content{
+    margin-top: 10%;
+}
+.bangar-img{
+    width: 80%;
+}
+h1 {
+    line-height: 17px;
+    font-size: 50px;
+}
+.buttion{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    color: white;
+    padding: 10px 15px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px gray;
+    display: inline-block;
+    margin-top: 20px;
+}
+.about-img{
+    width: 60%;
+    margin-left: 30% ;
+}
+#text{
+    margin-right: 5%;
+    margin-top: 10%;
+}
+.about-me{
+    background-image: url(./imges/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.p-text{
+}
